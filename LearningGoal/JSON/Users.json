@@ -1,0 +1,13 @@
+[
+  {
+    "user": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@test.com",
+      "age": 30,
+      "salary": 80000,
+      "department": "QA"
+    },
+    "updatedSalary": 85000
+  }
+]
